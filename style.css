@@ -1,3 +1,9 @@
-.header, .header ul{
+.header {
     display: flex;
+}
+
+.header ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
 }
