@@ -1,12 +1,17 @@
-.header {
+/* Visual/Organization */
+.section2 {
     border-style: solid;
     border-width: 1px;
     border-color: #1F2937;
 }
 
+/* Global */
+
 a {
     text-decoration: none;
 }
+
+/* Header Styling */
 
 .header {
     display: flex;
@@ -29,3 +34,5 @@ a {
 .header ul {
     margin-right: 350px;
 }
+
+/* Section 2 Styling */
