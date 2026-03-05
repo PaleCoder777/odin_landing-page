@@ -36,3 +36,16 @@ a {
 }
 
 /* Section 2 Styling */
+
+.section2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section2b1 {
+    margin-left: 350px;
+}
+
+.section2b2 {
+    margin-right: 350px;
+}
