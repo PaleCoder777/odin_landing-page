@@ -1,5 +1,5 @@
 /* Visual/Organization */
-.section2, .section2b1, .section2b2 {
+.section3 {
     border-style: solid;
     border-width: 1px;
     border-color: #1F2937;
@@ -52,3 +52,5 @@ a {
 .section2b2 {
     margin-right: 250px;
 }
+
+/* Section 3 Styling */
