@@ -56,5 +56,9 @@ a {
 /* Section 3 Styling */
 .section3b1 {
     display: flex;
+    padding: 100px;
+}
 
+.section3 .text {
+    text-align: center;
 }
