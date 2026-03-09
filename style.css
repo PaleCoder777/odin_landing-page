@@ -1,5 +1,5 @@
 /* Visual/Organization */
-.section3 {
+.section4 {
     border-style: solid;
     border-width: 1px;
     border-color: #1F2937;
@@ -65,3 +65,5 @@ a {
 .section3 .text {
     text-align: center;
 }
+
+/* Section 4 Styling */
