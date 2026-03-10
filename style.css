@@ -77,10 +77,18 @@ a {
 
 .section4 {
     background-color: #E5E7EB;
+    padding: 100px 300px;
 }
 
 .s4q1 {
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
+    text-align: center;
+}
+
+.s4q2 {
+    font-size: 20px;
+    text-align: right;
+    font-weight: 700;
 }
