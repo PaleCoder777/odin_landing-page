@@ -12,8 +12,10 @@ a {
 }
 
 
-body {
+html, body {
     font-family: "Roboto", sans-serif;
+    margin: 0px;
+    padding: 0px;
 }
 
 /* Header Styling */
@@ -21,7 +23,8 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
-    align-items: center;    
+    align-items: center;
+    background-color: #1F2937;
 }
 
 .header ul {
@@ -38,6 +41,11 @@ body {
 
 .header ul {
     margin-right: 350px;
+}
+
+a {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 /* Section 2 Styling */
