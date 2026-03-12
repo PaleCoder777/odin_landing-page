@@ -56,14 +56,31 @@ a {
     align-items: center;
     padding: 100px;
     gap: 50px;
+    background-color: #1F2937;
 }
 
-.section2b1 {
+.s2b1 {
     margin-left: 250px;
 }
 
-.section2b2 {
+.s2b2 {
     margin-right: 250px;
+}
+
+.s2main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.s2sub {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.section2 button {
+    background-color: #3882F6;
+    color: #F9FAF8;
 }
 
 /* Section 3 Styling */
