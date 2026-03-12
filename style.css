@@ -82,6 +82,10 @@ a {
 .section2 button {
     background-color: #3882F6;
     color: #F9FAF8;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 12px;
 }
 
 /* Section 3 Styling */
