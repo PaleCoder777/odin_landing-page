@@ -36,11 +36,11 @@ html, body {
 }
 
 .header img {
-    margin-left: 350px;
+    margin-left: 300px;
 }
 
 .header ul {
-    margin-right: 350px;
+    margin-right: 300px;
 }
 
 a {
@@ -60,11 +60,11 @@ a {
 }
 
 .s2b1 {
-    margin-left: 250px;
+    margin-left: 200px;
 }
 
 .s2b2 {
-    margin-right: 250px;
+    margin-right: 200px;
 }
 
 .s2main {
@@ -76,6 +76,7 @@ a {
 .s2sub {
     font-size: 18px;
     color: #E5E7EB;
+    margin-bottom: 10px;
 }
 
 .section2 button {
