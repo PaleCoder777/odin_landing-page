@@ -94,13 +94,14 @@ a {
     justify-content: center;
     align-items: center;
     gap: 50px;
-    padding: 100px;
+    margin-bottom: 100px;
 }
 
 .s3main {
     color: 1F2937;
     font-size: 36px;
     font-weight: bold;
+    padding: 50px
 }
 
 .section3 .text {
