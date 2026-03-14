@@ -132,3 +132,41 @@ a {
 }
 
 /* Section 5 Styling */
+.section5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s5b1 {
+    display: flex;
+    justify-content: space-around;
+    flex: 1;
+    background-color: #3882F6;
+    margin: 100px 300px;
+    padding: 50px 0px;
+    border-radius: 12px;
+    
+}
+
+.main {
+    color: #F9FAF8;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.subtext {
+    color: #E5E7EB;   
+}
+
+.section5 button {
+    background-color: #3882F6;
+    border-color: #F9FAF8;
+    border-width: px;
+    border-style: solid;
+    color: #E5E7EB;
+    border-radius: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 40px;
+}
