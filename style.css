@@ -89,12 +89,18 @@ a {
 }
 
 /* Section 3 Styling */
-.section3b1 {
+.s3b1 {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 50px;
     padding: 100px;
+}
+
+.s3main {
+    color: 1F2937;
+    font-size: 36px;
+    font-weight: bold;
 }
 
 .section3 .text {
