@@ -1,9 +1,12 @@
 /* Visual/Organization */
+
+/*
 .section4 {
     border-style: solid;
     border-width: 1px;
     border-color: #1F2937;
 }
+*/
 
 /* Global */
 
@@ -170,4 +173,12 @@ a {
     font-size: 20px;
     font-weight: bold;
     padding: 10px 40px;
+}
+
+/* Footer Styling */
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-align: center;
+    padding: 30px;
 }
